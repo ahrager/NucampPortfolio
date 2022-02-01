@@ -1,0 +1,37 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Ariel";
+}
+
+h2 {
+    color: #29292b;
+}
+
+header h2 {
+    color: black;
+}
+
+.site-footer {
+    background-image: linear-gradient(#2d5977,#3E8E7E, #FFEEAD, #FFEEAD);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right,#2d5977,#96ceb4,#FFEEAD,#ffAd60,#d9534f);
+    color: rgb(78, 77, 77);
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #2d5977;
+}
